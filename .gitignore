@@ -31,22 +31,19 @@ node_modules/
 # IDE
 .vscode/
 .idea/
-*.suo
-*.user
 
 # OS files
 .DS_Store
 Thumbs.db
-desktop.ini
 
 # Logs
 *.log
 
-# Cache & temp
+# Cache
 .cache/
 *.tmp
 
-# Model files (large)
+# Model files
 *.pt
 *.pth
 *.onnx
