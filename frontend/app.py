@@ -8,7 +8,7 @@ import requests
 import base64
 import json
 
-API_BASE = "http://localhost:8000"
+API_BASE = "https://adapative-questioning-for-crime.onrender.com"
 
 st.set_page_config(
     page_title="Crime Witness Assistant",
